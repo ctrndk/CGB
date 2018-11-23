@@ -1,4 +1,4 @@
-# CapingGunugBot
+# CapingGunungBot
 Bot-Auto Complete Job 
 
 Penggunaan di Windows :
